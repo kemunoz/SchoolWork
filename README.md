@@ -1,2 +1,2 @@
-# SchoolWork
-Contains most of the programs that I worked on in School
+# Programming Projects
+Contains programs I worked on for school, and for self learning.
